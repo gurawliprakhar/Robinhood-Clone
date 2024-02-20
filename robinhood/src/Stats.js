@@ -7,7 +7,7 @@ import axios from "axios";
 import { db } from "./firebase";
 
 const BASE_URL = "https://finnhub.io/api/v1/quote?symbol=";
-const KEY_URL = `&token=${key}`;
+const KEY_URL = `cnactq9r01qg60ja9kngcnactq9r01qg60ja9ko0`;
 
 
 const testData = []; 
