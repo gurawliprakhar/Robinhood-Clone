@@ -30,3 +30,6 @@
 .row__percentage{
     font-size: 12px;
 }
+.row__chart{
+   padding: 0 10px;
+}
